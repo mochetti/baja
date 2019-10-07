@@ -1,2 +1,3 @@
 # baja
-useful files for baja sae competition
+
+Useful files for the baja SAE competition
